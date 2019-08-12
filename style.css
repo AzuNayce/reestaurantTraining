@@ -1,4 +1,12 @@
-header{
+
+#fondA{
     background-image: url("img/wood.jpg");
-    background-size: 100% 100%;
+    background-size: cover;
+}
+.card-text{
+    text-align: center;
+}
+
+.card-title{
+    text-align: center;
 }
